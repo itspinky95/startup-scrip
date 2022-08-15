@@ -11,3 +11,8 @@ echo "Java Done"
 sudo apt install c++ -y
 sudo apt install build-essential -y 
 echo "C++ Done"
+
+sudo apt-get update && sudo apt-get upgrade -y 
+sudo apt update && sudo apt upgrade -y
+
+sudo apt autoremove
